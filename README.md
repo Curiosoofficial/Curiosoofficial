@@ -28,7 +28,7 @@ Ich baue Web-Apps vom Frontend bis zur Datenbank und bringe sie live – aktuell
 
 | Projekt | Worum es geht | Tech | Live |
 | --- | --- | --- | --- |
-| [**Portfolio «Punkt für Punkt»**](https://github.com/Curiosoofficial/luka-stefanovic-portfolio) | Mein Portfolio mit 24'000 Partikeln und eigenem Shader | Next.js, TypeScript, Three.js | [Demo](https://luka-stefanovic-portfolio.vercel.app) |
+| [**Portfolio**](https://github.com/Curiosoofficial/luka-stefanovic-portfolio) | Gestrickte 3D-Bergwelt, die sich beim Scrollen verwandelt | Next.js, TypeScript, Three.js, R3F | [Demo](https://luka-stefanovic-portfolio.vercel.app) |
 | [**Airbnb-Klon**](https://github.com/Curiosoofficial/airbnb) | Unterkünfte suchen, auf der Karte ansehen, buchen – Suche & Buchung selbst gebaut | Next.js, TypeScript | [Demo](https://airbnb-klon-curioso.vercel.app) |
 | [**DevOverflow**](https://github.com/Curiosoofficial/stack_overflow_next14) | Frage-Antwort-Plattform im Stil von Stack Overflow | Next.js, MongoDB, Auth | [Demo](https://stack-overflow-next14-nu.vercel.app) |
 | [**Snapgram**](https://github.com/Curiosoofficial/snapgram) | Social-Media-App im Instagram-Stil mit eigenem Backend | React, TypeScript, Postgres | [Demo](https://snapgram-woad.vercel.app) |
@@ -37,3 +37,12 @@ Ich baue Web-Apps vom Frontend bis zur Datenbank und bringe sie live – aktuell
 | [**El Pollo Loco**](https://github.com/Curiosoofficial/ell-pollo-loco-final) | 2D-Jump-and-Run, objektorientiert in reinem JS | JavaScript, OOP | [Demo](https://curiosoofficial.github.io/ell-pollo-loco-final/) |
 
 > Bei den Tutorial-Projekten steht im README jeweils offen, was aus dem Kurs stammt und was ich selbst erweitert habe.
+
+## Kundenprojekte
+
+Seit 2023 baue ich mit meiner Firma [Curiosolution](https://curiosolution.com) Websites für Betriebe rund um Zürich:
+
+- [**Mampfi Dübendorf**](https://restaurantmampfi.ch): Restaurant-Website mit Speisekarte und Online-Bestellung
+- [**BIRAC Plattenleger**](https://birac.ch): mehrseitig, Mobile First, lokales SEO und Offertformular
+- [**HLS Consulting & Planung**](https://hls-cp.com): zweisprachiger Onepager (DE/EN) mit Anfrageformular
+- [**Raumkonzepte Durisch**](https://raumkonzeptedurisch.ch): Website mit Projektgalerie, dazu Social Media
